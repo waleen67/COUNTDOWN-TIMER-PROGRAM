@@ -1,0 +1,35 @@
+# 🔹 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environments
+venv/
+env/
+.venv/
+
+# 🔹 Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# 🔹 Logs
+*.log
+
+# 🔹 Environment variables
+.env
+
+# 🔹 IDEs / Editors
+.vscode/
+.idea/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Jupyter Notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# 🔹 Coverage reports
+.coverage
+htmlcov/
